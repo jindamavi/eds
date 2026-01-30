@@ -1,0 +1,11 @@
+.image-container {
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+.image-container img {
+    height: 300px;
+}
